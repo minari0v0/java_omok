@@ -1,0 +1,22 @@
+# 빌드 산출물
+/build/
+/target/
+
+# 컴파일된 클래스
+*.class
+
+# Eclipse 관련
+bin/
+.settings/
+*.tmp
+*.bak
+*.swp
+.project
+.classpath
+
+# 외부 라이브러리
+*.jar
+
+# OS 파일
+.DS_Store
+Thumbs.db
